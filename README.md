@@ -58,7 +58,7 @@ Figma, Canva, Draw.io (architecture diagrams), Jira, Notion, PowerPoint
 
 ## 🚀 Sample Projects
 
-- 🛒 [Online Course Store (React + Redux + JSON Server)](https://github.com/lea123/course-shop)  
+- 🛒 [Final Project – Smart Movie Store (React + C# + SQL Server)]((https://github.com/esther128979/projectAI.git))  
   Structured client-server system with authentication, cart, filters, and reviews.
 
 - 📡 [Weather Station Service – C# Multi-layered Architecture](https://github.com/lea123/weather-service)  
