@@ -58,28 +58,20 @@ Figma, Canva, Draw.io (architecture diagrams), Jira, Notion, PowerPoint
 
 ## 🚀 Sample Projects
 
-- 🛒 [Final Project – Smart Movie Store (React + C# + SQL Server)]((https://github.com/esther128979/projectAI.git))  
-  Structured client-server system with authentication, cart, filters, and reviews.
-
-- 📡 [Weather Station Service – C# Multi-layered Architecture](https://github.com/lea123/weather-service)  
-  Production-style architecture with parameterized stored procedures and clean JSON responses.
-
-- 📊 [Data Dashboard – Angular + REST](https://github.com/lea123/angular-charts)  
-  Dynamic charts with filter logic and responsive UI.
-
----
-
-## 🌍 Career Goals
-
-I’m looking to apply my skills in structured environments such as:
-- 🏥 Health systems (Ministry of Health, HMOs)
-- 🛡 Defense & security (Rafael, Elbit, Ministry of Defense)
-- 💰 Financial and data infrastructure (Bank of Israel, tax systems)
-- 🏛 Government systems and information platforms
-
-I’m ready to contribute, learn, and build software that matters.
+- 🛒 [Final Project – Smart Movie Store (React + C# + SQL Server)](https://github.com/esther128979/projectAI.git)  
+  A full-featured movie eCommerce platform integrating AI models for personalized recommendations and data analysis.
+  Built with a React frontend, C# (.NET Core) backend, and SQL Server database, with a strong focus on clean architecture and high-quality code.
+  
+- 📡 [Weather Station Service – C# Multi-layered Architecture](https://github.com/leahelkabetz/Meteorological-service.git)  
+  A layered backend service for managing weather stations and measurements, with stored procedures and clean JSON output.
+  Built using multi-layer architecture (UI–BL–DAL) and best practices in scalability and separation of concerns.
+  
+- 🗂️ [Task Management System (Node.js + MySQL)](https://github.com/leahelkabetz/System-Node.js.git)  
+  A task management system with full CRUD functionality and status-based filtering.
+  Built with Node.js and MySQL, designed for clean structure and easy scalability.
 
 ---
+
 
 ## 📫 Contact
 
