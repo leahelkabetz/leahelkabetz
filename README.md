@@ -58,7 +58,7 @@ Figma, Canva, Draw.io (architecture diagrams), Jira, Notion, PowerPoint
 
 ## 🚀 Sample Projects
 
-- 🛒 [Final Project – Smart Movie Store (React + C# + SQL Server)](https://github.com/esther128979/projectAI.git)  
+- 🛒 [Final Project – Smart Movie Store (React + C# + Python AI + SQL)](https://github.com/esther128979/projectAI.git)  
   A full-featured movie eCommerce platform integrating AI models for personalized recommendations and data analysis.
   Built with a React frontend, C# (.NET Core) backend, and SQL Server database, with a strong focus on clean architecture and high-quality code.
   
