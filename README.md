@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Leah!
+#  Hi, I'm Leah!
 
 🎓 Fullstack Developer | Clean Code Enthusiast | Systems-Oriented Thinker  
 🔍 I build scalable, maintainable and secure web applications with attention to detail and real-world use cases.
