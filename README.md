@@ -70,7 +70,7 @@ Figma, Canva, Draw.io (architecture diagrams), Jira, Notion, PowerPoint
   A task management system with full CRUD functionality and status-based filtering.
   Built with Node.js and MySQL, designed for clean structure and easy scalability.
   
-  - 🎓 [ CourseHub – React + MUI Course Store](https://github.com/leahelkabetz/online-course-hub.git)  
+- 🎓 [ CourseHub – React + MUI Course Store](https://github.com/leahelkabetz/online-course-hub.git)  
  A modern course marketplace built with React, Redux, and MUI.Includes role-based access,
  course management, reviews, filtering, and a JSON server backend for local development
 
