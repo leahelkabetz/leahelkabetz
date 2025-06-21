@@ -71,9 +71,9 @@ Figma, Canva, Draw.io (architecture diagrams), Jira, Notion, PowerPoint
   Built with Node.js and MySQL, designed for clean structure and easy scalability.
 
 -🎓 [CourseHub – React + MUI Course Store](https://github.com/leahelkabetz/UpKurs.git)  
- A modern course marketplace built with React, Redux, and MUI.
-Includes role-based access, course management, reviews, filtering, and a local JSON server backend.
-🤖 Also features seamless integration with OpenAI's API to provide an intelligent, real-time chat assistant for enhanced user support and interactive course guidance.
+  A modern course marketplace built with React, Redux, and MUI.
+  Includes role-based access, course management, reviews, filtering, and a local JSON server backend.
+  Also features seamless integration with OpenAI's API to provide an intelligent, real-time chat assistant for enhanced user support and interactive course guidance.
 
 
 
