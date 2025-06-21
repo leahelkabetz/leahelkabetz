@@ -5,7 +5,7 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 I'm passionate about developing solutions that are not just functional — but **reliable, clear, and built for growth**.  
 I approach every project as a system: from the UI to the backend to the database. I prioritize **modularity, code clarity, and data integrity**.
@@ -14,7 +14,7 @@ I'm especially interested in contributing to fields like **healthtech, national 
 
 ---
 
-## 🧰 Technologies & Tools
+##  Technologies & Tools
 
 **Frontend**:  
 React.js, TypeScript, HTML5, CSS3, Material UI, Responsive Design  
@@ -36,23 +36,23 @@ Figma, Canva, Draw.io (architecture diagrams), Jira, Notion, PowerPoint
 
 ---
 
-## 🧠 Soft Skills & Work Qualities
+##  Soft Skills & Work Qualities
 
-- 🤝 Strong interpersonal communication – work well in teams and with stakeholders  
-- 🧩 Organized task management – able to prioritize, deliver on time, and stay focused under pressure  
-- 🎯 Self-learning & problem-solving – quickly adapt to new technologies and environments  
-- ✍️ Clear documentation and communication – making sure code and systems are understandable and transferable  
-- 🤓 Passionate about software that improves real lives
+-  Strong interpersonal communication – work well in teams and with stakeholders  
+-  Organized task management – able to prioritize, deliver on time, and stay focused under pressure  
+-  Self-learning & problem-solving – quickly adapt to new technologies and environments  
+-  Clear documentation and communication – making sure code and systems are understandable and transferable  
+-  Passionate about software that improves real lives
 
 ---
 
 ## 🛡 Values I Bring
 
-- ✅ Clean, readable code – easy for teams to maintain  
-- 🧩 Modular structure – scalable and testable components  
-- 🔐 Security-aware – data validation, roles & access  
-- 🧠 Logical planning – layer separation (UI, BL, DAL)  
-- 📄 Documentation – for future developers and audits
+-  Clean, readable code – easy for teams to maintain  
+-  Modular structure – scalable and testable components  
+-  Security-aware – data validation, roles & access  
+-  Logical planning – layer separation (UI, BL, DAL)  
+-  Documentation – for future developers and audits
 
 ---
 
