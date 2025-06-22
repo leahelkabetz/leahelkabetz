@@ -31,8 +31,6 @@ SQL Server, MySQL, Entity Framework, ADO.NET
 **DevOps / Tools**:  
 Git, GitHub, Bash, Linux, PowerShell, Postman, Visual Studio, VS Code  
 
-**Other**:  
-Figma, Canva, Draw.io (architecture diagrams), Jira, Notion, PowerPoint
 
 ---
 
