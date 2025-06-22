@@ -26,7 +26,7 @@ C# (.NET Core), Python (Flask, FastAPI), Java, C++, Node.js, Express, REST APIs,
 Python, scikit-learn, pandas, NumPy, Jupyter, classification & prediction models 
 
 **Databases:**  
-SQL Server, PostgreSQL, Entity Framework, ADO.NET 
+SQL Server, MySQL, Entity Framework, ADO.NET 
 
 **DevOps / Tools**:  
 Git, GitHub, Bash, Linux, PowerShell, Postman, Visual Studio, VS Code  
