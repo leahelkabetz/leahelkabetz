@@ -29,7 +29,8 @@ Python, scikit-learn, pandas, NumPy, Jupyter, classification & prediction models
 SQL Server, MySQL, Entity Framework, ADO.NET 
 
 **DevOps / Tools**:  
-Git, GitHub, Bash, Linux, PowerShell, Postman, Visual Studio, VS Code  
+Git, GitHub, Bash, Linux, PowerShell, Postman, Visual Studio, VS Code, IntelliJ IDEA
+
 
 
 ---
