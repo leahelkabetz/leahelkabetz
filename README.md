@@ -1,7 +1,7 @@
 #  Hi, I'm Leah!
 
-🎓 Fullstack Developer | Clean Code Enthusiast | Systems-Oriented Thinker  
-🔍 I build scalable, maintainable and secure web applications with attention to detail and real-world use cases.
+🎓 Software Developer | Clean Code Enthusiast | Systems-Oriented Thinker
+🔍 I create scalable, maintainable, and secure solutions with attention to detail and real-world business needs.
 
 ---
 
