@@ -7,10 +7,12 @@
 
 ##  About Me
 
-I'm passionate about developing solutions that are not just functional — but **reliable, clear, and built for growth**.  
-I approach every project as a system: from the UI to the backend to the database. I prioritize **modularity, code clarity, and data integrity**.
+I’m passionate about developing solutions that are not just functional — but reliable, clear, and built for growth.
+I approach every project as a system: from the UI to the backend to the database. I prioritize modularity, code clarity, and data integrity.
 
-I'm especially interested in contributing to fields like **healthtech, national infrastructure, data platforms, and defense systems** — where code must be robust, secure and thoughtful.
+I’m especially driven by working with data — designing robust data models, building meaningful analytics, and turning information into actionable insights.
+
+I’m particularly interested in contributing to fields like healthtech, national infrastructure, data platforms, and defense systems — where code must be robust, secure, and thoughtful.
 
 ---
 
@@ -20,7 +22,7 @@ I'm especially interested in contributing to fields like **healthtech, national 
 React.js, TypeScript, HTML5, CSS3, Material UI, Responsive Design  
 
 **Backend**:  
-C# (.NET Core), Python (Flask, FastAPI), Java, C++, Node.js, Express, REST APIs, JSON Server  
+C# (.NET Core), Python, Java, C++, Node.js, REST APIs, JSON Server  
 
 **Artificial Intelligence / Machine Learning:**  
 Python, scikit-learn, pandas, NumPy, Jupyter, classification & prediction models 
