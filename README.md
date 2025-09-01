@@ -73,8 +73,8 @@ Git, GitHub, Bash, Linux, PowerShell, Postman, Visual Studio, VS Code, IntelliJ 
   Built using multi-layer architecture (UI–BL–DAL) and best practices in scalability and separation of concerns.
   
 - 🛍️ [Final Project – Online Store Web App (HTML + CSS + JavaScript)](https://github.com/leahelkabetz/Wall-pictures-and-study-accessories-store.git)
-  A single-page web application simulating an online shop with full user authentication, admin product management, dynamic shop interface, and shopping cart functionality.
-  Built with HTML, CSS, and JavaScript (ES6+), following OOP design patterns and SPA architecture,
+   A single-page web application simulating an online shop with full user authentication, admin product management, dynamic shop interface, and shopping cart functionality.
+   Built with HTML, CSS, and JavaScript (ES6+), following OOP design patterns and SPA architecture,
 
 - 🛒 [Final Project – Smart Movie Store (React + C# + Python AI + SQL)](https://github.com/Tzipik652/dosflix-final-project.git)  
   A full-featured movie eCommerce platform integrating AI models for personalized recommendations and data analysis.
