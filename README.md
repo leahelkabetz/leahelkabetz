@@ -19,7 +19,7 @@ I’m particularly interested in contributing to fields like healthtech, nationa
 ##  Technologies & Tools
 
 **Frontend**:  
-React.js, TypeScript, HTML5, CSS3, Material UI, Responsive Design  
+React, TypeScript, HTML5, CSS3, Material UI, Responsive Design  
 
 **Backend**:  
 C# (.NET Core), Python, Java, C++, Node.js, REST APIs, JSON Server  
