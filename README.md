@@ -58,14 +58,6 @@ Git, GitHub, Bash, Linux, PowerShell, Postman, Visual Studio, VS Code, IntelliJ 
 ---
 
 ## 🚀 Sample Projects
-
-- 🏢 [Practicum Project – Internal Portal for the Tax Authority (SQLserver + C# + Angular)](https://github.com/LeahMalul/Portal.git)  
- A comprehensive internal web platform designed to streamline employee workflows and request management within the organization.
-Developed with an Angular frontend and a .NET Core backend, leveraging SQL Server stored procedures and RESTful APIs to deliver secure, data-driven functionality.
-The portal includes:
-• An internal inquiry management system for handling and tracking employee requests
-• Interactive dashboards and reports with visual data representation
-• A strong emphasis on clean architecture, adherence to high coding standards, and continuous code reviews and professional mentoring throughout the development process.
   
 - 🛒 [Final Project – Smart Movie Store (React + C# + Python AI + SQL)](https://github.com/Tzipik652/dosflix-final-project.git)  
   A full-featured movie eCommerce platform integrating AI models for personalized recommendations and data analysis.
