@@ -58,24 +58,23 @@ Git, GitHub, Bash, Linux, PowerShell, Postman, Visual Studio, VS Code, IntelliJ 
 ---
 
 ## 🚀 Sample Projects
-  
-- 🛒 [Final Project – Smart Movie Store (React + C# + Python AI + SQL)](https://github.com/Tzipik652/dosflix-final-project.git)  
-  A full-featured movie eCommerce platform integrating AI models for personalized recommendations and data analysis.
-  Built with a React frontend, C# (.NET Core) backend, and SQL Server database, with a strong focus on clean architecture and high-quality code.
-  
-- 📡 [Weather Station Service – C# Multi-layered Architecture](https://github.com/leahelkabetz/Meteorological-service.git)  
-  A layered backend service for managing weather stations and measurements, with stored procedures and clean JSON output.
-  Built using multi-layer architecture (UI–BL–DAL) and best practices in scalability and separation of concerns.
-  
-- 🗂️ [Task Management System (Node.js + MySQL)](https://github.com/leahelkabetz/System-Node.js.git)  
-  A task management system with full CRUD functionality and status-based filtering.
-  Built with Node.js and MySQL, designed for clean structure and easy scalability.
 
 - 🎓 [CourseHub – React + MUI Course Store](https://github.com/leahelkabetz/UpKurs.git)  
   A modern course marketplace built with React, Redux, and MUI.
   Includes role-based access, course management, reviews, filtering, and a local JSON server backend.
   Also features seamless integration with OpenAI's API to provide an intelligent, real-time chat assistant for enhanced user support and interactive course guidance.
+  
+- 🗂️ [Task Management System (Node.js + MySQL)](https://github.com/leahelkabetz/System-Node.js.git)  
+  A task management system with full CRUD functionality and status-based filtering.
+  Built with Node.js and MySQL, designed for clean structure and easy scalability.
 
+- 📡 [Weather Station Service – C# Multi-layered Architecture](https://github.com/leahelkabetz/Meteorological-service.git)  
+  A layered backend service for managing weather stations and measurements, with stored procedures and clean JSON output.
+  Built using multi-layer architecture (UI–BL–DAL) and best practices in scalability and separation of concerns.
+
+- 🛒 [Final Project – Smart Movie Store (React + C# + Python AI + SQL)](https://github.com/Tzipik652/dosflix-final-project.git)  
+  A full-featured movie eCommerce platform integrating AI models for personalized recommendations and data analysis.
+  Built with a React frontend, C# (.NET Core) backend, and SQL Server database, with a strong focus on clean architecture and high-quality code.
 
 
 
